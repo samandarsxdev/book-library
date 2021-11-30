@@ -33,6 +33,7 @@ color: #FFFFFF;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 10px 0;
 }
 .text-icon{
     width: 425px;
@@ -49,13 +50,31 @@ align-items: center;
 
 color: #FFFFFF;
 }
+.btn{
+    width: 130px;
+    height: 44px;
+    border:none;
+    background-color: #B31918;
+    color:white;
+}
+.nav-box-icon{
+    display: flex;
+
+}
+.images{
+    width: 40px;
+    margin-left: 20px;
+}
+.nav-box-icon h2{
+    margin-left: 10px;
+}
 .btn-info{
     width: 200px;
 height: 44px;
 border:none;
 margin: 20px 50px;
 /* main red */
-
+color:white;
 background: #B31918;
 border-radius: 2px;
 }
